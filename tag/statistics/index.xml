@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>statistics | Esteban Escobar</title><link>https://estebanescobar7.github.io/tag/statistics/</link><atom:link href="https://estebanescobar7.github.io/tag/statistics/index.xml" rel="self" type="application/rss+xml"/><description>statistics</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><image><url>https://estebanescobar7.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>statistics</title><link>https://estebanescobar7.github.io/tag/statistics/</link></image><item><title>Academic Writing</title><link>https://estebanescobar7.github.io/portfolio-content/academic-writing/</link><pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate><guid>https://estebanescobar7.github.io/portfolio-content/academic-writing/</guid><description>&lt;div class="row">
+&lt;div class="col-sm-6">
+&lt;a href="mSHAP_published.pdf">
+&lt;h3>mSHAP Paper&lt;/h3>
+&lt;img src="mshap_paper.png" width="100%">
+&lt;/a>
+&lt;/div>
+&lt;div class="col-sm-6">
+&lt;a href="cas_published.pdf">
+&lt;h3>Machine Learning in Ratemaking Paper&lt;/h3>
+&lt;img src="cas_paper.png" width="100%">
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class = "col-sm-6">
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="glm_final.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;/div>&lt;div class = "col-sm-6">
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="spatial_final.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;/div>
+&lt;div class = "col-sm-3">&lt;/div>&lt;div class = "col-sm-6">
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="infectious_disease_final.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;/div></description></item></channel></rss>
