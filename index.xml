@@ -17,55 +17,24 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;/a>
 &lt;/div>
 &lt;div class="col-sm-6">
-&lt;a href="cas_published.pdf">
-&lt;h3>Machine Learning in Ratemaking Paper&lt;/h3>
-&lt;img src="cas_paper.png" width="100%">
+&lt;h3>2023 Data Analysis Qualifying Exam&lt;/h3>
+&lt;img src="DA_2023.png" width="100%">
 &lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;div class = "col-sm-6">
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="" srcset="
-/portfolio-content/academic-writing/DA_2023_huded067b839f7bffe087c7b3801fed063_454374_801222f6ed9a2d436fbee3c4352ee494.webp 400w,
-/portfolio-content/academic-writing/DA_2023_huded067b839f7bffe087c7b3801fed063_454374_ee9af2604444e3f64f260cd82701a908.webp 760w,
-/portfolio-content/academic-writing/DA_2023_huded067b839f7bffe087c7b3801fed063_454374_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://estebanescobar7.github.io/portfolio-content/academic-writing/DA_2023_huded067b839f7bffe087c7b3801fed063_454374_801222f6ed9a2d436fbee3c4352ee494.webp"
-width="538"
-height="760"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;/div>&lt;div class = "col-sm-6">
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="" srcset="
-/portfolio-content/academic-writing/FPC_hua08daa413f70ae6ec2d6b4598bbc4009_354676_de556a7dce3827d7c9b9d11966390797.webp 400w,
-/portfolio-content/academic-writing/FPC_hua08daa413f70ae6ec2d6b4598bbc4009_354676_0a499014f959c388efd74416ad8313c7.webp 760w,
-/portfolio-content/academic-writing/FPC_hua08daa413f70ae6ec2d6b4598bbc4009_354676_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://estebanescobar7.github.io/portfolio-content/academic-writing/FPC_hua08daa413f70ae6ec2d6b4598bbc4009_354676_de556a7dce3827d7c9b9d11966390797.webp"
-width="538"
-height="760"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
+&lt;div class="row">
+&lt;div class="col-sm-6">
+&lt;a href="FPC.pdf">
+&lt;h3>Statistical Computing Final Project&lt;/h3>
+&lt;img src="FPC.png" width="100%">
+&lt;/a>
 &lt;/div>
-&lt;div class = "col-sm-3">&lt;/div>&lt;div class = "col-sm-6">
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="" srcset="
-/portfolio-content/academic-writing/Survival_hu3a360ed350fe0b1dbc8369523e724be5_207613_098a2596e2bb79625597d3ceeb63df10.webp 400w,
-/portfolio-content/academic-writing/Survival_hu3a360ed350fe0b1dbc8369523e724be5_207613_040d1423e8a0587a4d6076ccd36a4c01.webp 760w,
-/portfolio-content/academic-writing/Survival_hu3a360ed350fe0b1dbc8369523e724be5_207613_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://estebanescobar7.github.io/portfolio-content/academic-writing/Survival_hu3a360ed350fe0b1dbc8369523e724be5_207613_098a2596e2bb79625597d3ceeb63df10.webp"
-width="540"
-height="760"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
+&lt;div class="col-sm-6">
+&lt;a href="Survival.pdf">
+&lt;h3>Survival Analysis Final Project&lt;/h3>
+&lt;img src="Survival.png" width="100%">
+&lt;/a>
+&lt;/div>
 &lt;/div></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://estebanescobar7.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://estebanescobar7.github.io/post/getting-started/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;hello&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="overview">Overview&lt;/h2>
@@ -213,7 +182,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-894267531" class="chart">&lt;/div>
+&lt;div id="chart-835164279" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -222,7 +191,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-894267531', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-835164279', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
